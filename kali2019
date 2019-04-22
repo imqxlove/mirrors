@@ -1,0 +1,14 @@
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+
+#China USTC Edu
+deb https://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
+deb-src https://mirrors.ustc.edu.cn/kali klai-rolling non-free contrib
+
+#China Tsinghua University 
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+deb-src https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+
+
+

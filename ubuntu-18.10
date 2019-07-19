@@ -11,3 +11,5 @@ deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ cosmic-security main restricted
 # 预发布软件源，不建议启用
 # deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ cosmic-proposed main restricted universe multiverse
 # deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ cosmic-proposed main restricted universe multiverse
+
+#在ubuntu18.04LTSarm版本中不显示中文。
